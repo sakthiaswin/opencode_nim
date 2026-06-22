@@ -115,8 +115,8 @@ opencode / subagents
 
 ```bash
 # Clone the repo
-git clone https://github.com/sakthiaswin/opencode_nim.git
-cd opencode_nim
+git clone https://github.com/sakthiaswin/nim-guard.git
+cd nim-guard
 
 # Install dependencies (only dotenv)
 npm install
