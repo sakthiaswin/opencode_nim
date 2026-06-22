@@ -1,8 +1,5 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "plugin": [
-    "D:/ponytail/ponytail/.opencode/plugins/ponytail.mjs"
-  ],
   "provider": {
     "nimguard": {
       "npm": "@ai-sdk/openai-compatible",
